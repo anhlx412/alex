@@ -35,6 +35,7 @@
     ![Go](https://img.shields.io/badge/GoLang-%23E34F26.svg?style=for-the-badge&logo=go&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black)
+    ![NodeJs](https://img.shields.io/badge/NodeJs%20-231572B6.svg?style=for-the-badge&logo=node&logoColor=white)
 
 <br>   
     
@@ -43,8 +44,8 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![ReactJS](https://img.shields.io/badge/ReactJS%20-%FCC624.svg?style=for-the-badge&logo=react&logoColor=white)
-   ![VueJS](https://img.shields.io/badge/VueJS%20-%231572B6.svg?style=for-the-badge&logo=vuejs&logoColor=white)
+   ![ReactJS](https://img.shields.io/badge/ReactJS%20-231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![VueJS](https://img.shields.io/badge/VueJS%20-FCC624.svg?style=for-the-badge&logo=vuejs&logoColor=black)
 
 <br>
 
